@@ -4,26 +4,6 @@
 1. Managed end-to-end project phases from Data Analysis to Preparing model.
 2. Made an attempt to develop a website using Streamlit, featuring modules for Price Prediction
 
-# TEAM Name: G_061_063_073_103
-
-Team Members and their contributiuons:
-
-SHANMUKHA PADMA KUMAR, SE22UCSE061  
-TASK DONE: Data Exploration, UIUX, Report.  
-CONTRIBUTION: 26%
-
-KUNAL CHAKILAM, SE22UCSE063  
-TASK DONE: Missing Values, Model Selection, UIUX.  
-CONTRIBUTION: 28%
-
-SATHWIK DACHEPALLY, SE22UCSE073  
-TASK DONE: Outlier Detection and Handling, Report.  
-CONTRIBUTION: 23%
-
-SATHVIK GOPISHETTY, SE22UCSE103  
-TASK DONE: Feature Selection, Report  
-CONTRIBUTION: 23%
-
 # This project aims to simplify your property journey by offering a holistic overview and price predictive insights.
 
 # Price Prediction 🔎:
